@@ -65,10 +65,6 @@ module.exports = {
         rel: "stylesheet",
         href:
           "https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i"
-      },
-      {
-        rel: "stylesheet",
-        href: "https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
       }
     ]
   },
