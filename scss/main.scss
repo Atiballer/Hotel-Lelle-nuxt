@@ -1,0 +1,386 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+  height: 8rem;
+  font-size: 1.5rem;
+  transition: height 1s ease 0s;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.nav-item {
+  font-family: "Courgette", cursive;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar {
+    height: 4rem;
+  }
+}
+@media only screen and (max-width: 768px) {
+  button {
+    border: 3px solid;
+    border-color: white;
+  }
+}
+
+/* hozzáadott class a navbarhoz */
+.navbar.solid {
+  background-color: #490d40;
+  transition: background-color 1s ease 0s;
+  box-shadow: 0 0 4px grey;
+  height: 5rem;
+  transition: height 1s ease 0s;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-dark .navbar-nav .active > .nav-link.solid2 {
+    background-color: #490d40;
+    width: 200px;
+  }
+}
+
+.view {
+  background-image: url("../assets/bg4.jpg");
+  background-position: center;
+  background-size: cover;
+  font-family: "Courgette", cursive;
+}
+
+.vertical-center {
+  min-height: 90%;
+  min-height: 90vh;
+
+  /* min-height: calc(100% - 56px);
+    min-height: calc(100vh - 56px); */
+
+  display: flex;
+  align-items: center;
+}
+
+.view h1 {
+  font-size: 5rem;
+  text-align: center;
+  color: white;
+  padding-bottom: 1rem;
+  /* background-color: whitesmoke; */
+  opacity: 0.9;
+}
+
+.view p {
+  text-align: center;
+  color: white;
+  font-size: 2.5rem;
+  opacity: 0.9;
+  /* background-color: white; */
+  text-shadow: black;
+}
+
+/* első rajzok */
+.forks {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+.forks i {
+  opacity: 0.9;
+}
+
+.forks p {
+  padding-top: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* service */
+.service {
+  line-height: 1.5;
+}
+
+.service p {
+  line-height: 1.8;
+  color: #555;
+  text-align: justify;
+}
+
+.service h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #333;
+}
+
+.service span {
+  display: block;
+  margin-top: 10px;
+  font-weight: 300;
+  color: #777;
+  font-size: 22px;
+}
+
+.heading-block:after {
+  content: "";
+  display: block;
+  margin-top: 30px;
+  width: 40px;
+  border-top: 2px solid #444;
+}
+
+.service a {
+  text-decoration: none !important;
+}
+
+.button.button-border.button-large {
+  line-height: 42px;
+}
+
+.button.button-border {
+  border: 2px solid #444;
+  background-color: transparent;
+  color: #333;
+  line-height: 36px;
+  font-weight: 700;
+  text-shadow: none;
+}
+
+.button.button-rounded {
+  border-radius: 3px;
+}
+
+.button.button-large {
+  padding: 0 26px;
+  font-size: 16px;
+  height: 46px;
+}
+
+body:not(.device-touch) .button {
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s cubic-bezier(0.42, 0, 0.32, 0.8);
+}
+
+.button {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+  white-space: nowrap;
+  margin: 5px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.button:hover {
+  background-color: #444;
+  color: #fff;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.noleftmargin {
+  margin-left: 0 !important;
+}
+
+.topmargin-sm {
+  margin-top: 30px !important;
+}
+
+.service img-thumbnail {
+  width: 550px;
+  vertical-align: middle;
+  height: 418px;
+}
+
+.cover {
+  object-fit: cover;
+}
+
+.smaller {
+  font-size: 0.875rem;
+}
+
+.in {
+  color: #1abc9c !important;
+  margin-right: 1em;
+}
+
+.out {
+  color: #dc3545 !important;
+  margin-right: 1em;
+}
+
+/* ---- grid ---- */
+
+.grid {
+  max-width: 100%;
+}
+
+/* clear fix */
+.grid:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.grid-sizer {
+  width: 100%;
+}
+
+.grid-item {
+  width: 25%;
+}
+
+.grid-item {
+  float: right;
+}
+
+.grid-item img {
+  display: block;
+  width: 100%;
+  height: initial;
+  padding-right: 3px;
+  align-items: inherit;
+}
+
+/* Footer */
+.context-dark,
+.bg-gray-dark,
+.bg-primary {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-classic a,
+.footer-classic a:focus,
+.footer-classic a:active {
+  color: #ffffff;
+}
+.nav-list li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.nav-list li a:hover:before {
+  margin-left: 0;
+  opacity: 1;
+  visibility: visible;
+}
+
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 23px;
+  font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+}
+.social-container .col {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.nav-list li a:before {
+  content: "\f14f";
+  font: 400 21px/1 "Material Design Icons";
+  color: #490d40;
+  display: inline-block;
+  vertical-align: baseline;
+  margin-left: -28px;
+  margin-right: 7px;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.22s ease;
+}
+
+/* kép alatti div index kivételével */
+.jumbotron {
+  height: 13rem;
+}
+
+.rooms {
+  background-color: #d2926f;
+  align-items: center;
+}
+
+.rooms h3 {
+  text-transform: uppercase;
+}
+
+.rooms p {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+.rooms h3,
+.rooms p {
+  padding-left: 10%;
+}
+
+.view2 {
+  background-position: center;
+  background-size: cover;
+  font-family: "Courgette", cursive;
+  min-width: 100%;
+  /* min-height: 100%; */
+  height: 550px;
+}
+
+/* eddig */
+
+/* szobák */
+.roomspic img {
+  height: 303px;
+  width: 570px;
+}
+
+/* ajánlat,árak */
+.table {
+  margin: 0px auto;
+  width: 50%;
+}
+
+.table-responsive p {
+  margin: 0px auto;
+  width: 50%;
+}
+
+/* galéria */
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* kapcsolat */
+.contact h4,
+.contact p {
+  text-align: center;
+  color: #555;
+}
+
+.contact h4 {
+  text-transform: uppercase;
+}
+
+.contactrow {
+  text-align: center;
+  color: #555;
+}
+
+.contactrow a {
+  text-decoration: underline !important;
+  color: #555;
+}
