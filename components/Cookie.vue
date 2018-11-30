@@ -21,5 +21,15 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
+.Cookie__content {
+  font-size: 14px;
+}
+
+.Cookie__button {
+  padding: 0.625em 1.125em;
+  font-size: 14px;
+  border-radius: 0;
+}
 </style>
+
