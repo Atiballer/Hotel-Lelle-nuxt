@@ -1,7 +1,7 @@
 <template>
   <div>
     <GmapMap :center="{lat:46.7886167, lng:17.681446}"
-             :zoom="17"
+             :zoom="16"
              map-type-id="terrain"
              style="width: 100%; max-width: 600px; height: 400px; margin: auto">
       <GmapMarker :key="index"
