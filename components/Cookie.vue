@@ -1,16 +1,16 @@
 <template>
     <div>
+        <no-ssr>
+            <cookie-law theme="blood-orange"
+                        buttonText="Elfogadom"
+                        buttonLink="/adatvedelem"
+                        buttonLinkText="Adatvédelem">
+                <div slot="message">
+                    Az oldal sütiket használ, további információért
 
-        <cookie-law theme="blood-orange"
-                    buttonText="Elfogadom"
-                    buttonLink="/adatvedelem"
-                    buttonLinkText="Adatvédelem">
-            <div slot="message">
-                Az oldal sütiket használ, további információért
-
-            </div>
-        </cookie-law>
-
+                </div>
+            </cookie-law>
+        </no-ssr>
     </div>
 </template>
 
