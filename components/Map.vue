@@ -1,17 +1,17 @@
 <template>
-    <div>
-        <GmapMap :center="{lat:46.7886167, lng:17.681446}"
-                 :zoom="12"
-                 map-type-id="terrain"
-                 style="width: 100%; max-width: 600px; height: 400px; margin: auto">
-            <GmapMarker :key="index"
-                        v-for="(m, index) in markers"
-                        :position="m.position"
-                        :clickable="true"
-                        :draggable="true"
-                        @click="center=m.position" />
-        </GmapMap>
-    </div>
+  <div>
+    <GmapMap :center="{lat:46.7886167, lng:17.681446}"
+             :zoom="12"
+             map-type-id="terrain"
+             style="width: 100%; max-width: 600px; height: 400px; margin: auto">
+      <GmapMarker :key="index"
+                  v-for="(m, index) in markers"
+                  :position="{ lat:46.7886167, lng:17.681446 }"
+                  :clickable="true"
+                  :draggable="true"
+                  @click="center=m.position" />
+    </GmapMap>
+  </div>
 </template>
 <script>
 export default {
