@@ -103,7 +103,12 @@ module.exports = {
   /*
    ** Nuxt.js modules
    */
-  modules: ["@nuxtjs/axios"],
+  modules: ["@nuxtjs/axios", "@nuxtjs/sitemap"],
+
+  sitemap: {
+    hostname: "https://www.hotel-lelle.hu",
+    generate: true
+  },
 
   /*
    ** Build configuration
