@@ -21,6 +21,8 @@ const scroll = function(to, from, savedPosition) {
   }
 };
 
+const gtmid = "GTM-WRVRTFP";
+
 module.exports = {
   mode: "universal",
   router: {
@@ -99,7 +101,11 @@ module.exports = {
   /*
    ** Nuxt.js modules
    */
-  modules: ["@nuxtjs/axios", "@nuxtjs/sitemap"],
+  modules: [
+    ["@nuxtjs/google-tag-manager", { id: gtmid }],
+    "@nuxtjs/axios",
+    "@nuxtjs/sitemap"
+  ],
 
   sitemap: {
     hostname: "https://www.hotel-lelle.hu",
