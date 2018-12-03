@@ -95,7 +95,8 @@ module.exports = {
     { src: "~/plugins/fontawesome.js" },
     { src: "~/plugins/vue-lazyload.js", ssr: false },
     { src: "~/plugins/vue-image-lightbox.js", ssr: false },
-    { src: "~/plugins/vue2-google-maps.js" }
+    { src: "~/plugins/vue2-google-maps.js" },
+    { src: "~plugins/ga.js", ssr: false }
   ],
 
   /*
