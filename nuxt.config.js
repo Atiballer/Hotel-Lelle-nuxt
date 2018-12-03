@@ -108,6 +108,7 @@ module.exports = {
   ],
 
   sitemap: {
+    path: "/sitemap.xml",
     hostname: "https://www.hotel-lelle.hu",
     generate: true
   },
