@@ -100,7 +100,8 @@ module.exports = {
     { src: "~/plugins/vue-lazyload.js", ssr: false },
     { src: "~/plugins/vue-image-lightbox.js", ssr: false },
     { src: "~/plugins/vue2-google-maps.js" },
-    { src: "~plugins/ga.js", ssr: false }
+    { src: "~plugins/ga.js", ssr: false },
+    { src: "~plugins/vue-js-modal" }
   ],
 
   /*

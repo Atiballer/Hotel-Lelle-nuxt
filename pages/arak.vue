@@ -1,5 +1,10 @@
 <template>
     <div>
+
+        <section>
+            <v-dialog/>
+        </section>
+
         <div class="jumbotron jumbotron-fluid pt-5 rooms">
             <h3>{{ title }}</h3>
             <p>{{ description }}</p>
@@ -95,9 +100,103 @@ export default {
         { hid: "description", name: "description", content: this.description }
       ]
     };
+  },
+  mounted() {
+    this.$modal.show("dialog", {
+      title: "Figyelem!",
+      text: "Aktuális kedvezményeinkről az Ajánlataink menüpontban olvashatnak",
+      buttons: [
+        {
+          title: "Ajánlataink", // Button title
+          default: true, // Will be triggered by default if 'Enter' pressed.
+          handler: r => {
+            this.$router.push("ajanlataink");
+          } // Button click handler
+        },
+        {
+          title: "Bezárás"
+        }
+      ]
+    });
   }
 };
 </script>
 
 <style>
+.v--modal-overlay {
+  position: fixed;
+  box-sizing: border-box;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 999;
+  opacity: 1;
+}
+.v--modal-overlay .v--modal-background-click {
+  min-height: 100%;
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.v--modal-top-right {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.v--modal-overlay .v--modal-box {
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.v--modal {
+  background-color: white;
+  text-align: left;
+  border-radius: 3px;
+  box-shadow: 0 20px 60px -2px rgba(27, 33, 58, 0.4);
+  padding: 0;
+  font-family: "Monserrat";
+}
+
+.vue-dialog .dialog-content {
+  flex: 1 0 auto;
+  width: 100%;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.vue-dialog div {
+  box-sizing: border-box;
+}
+
+.vue-dialog .vue-dialog-buttons {
+  display: flex;
+  flex: 0 1 auto;
+  width: 100%;
+  border-top: 1px solid #eee;
+}
+
+.vue-dialog button {
+  letter-spacing: 1px;
+}
+
+.vue-dialog-button {
+  font-size: 12px !important;
+  text-transform: uppercase;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  cursor: pointer;
+  box-sizing: border-box;
+  line-height: 40px;
+  height: 40px;
+  color: inherit;
+  font: inherit;
+  outline: none;
+}
 </style>
