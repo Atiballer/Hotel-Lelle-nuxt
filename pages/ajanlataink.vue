@@ -13,9 +13,10 @@
         <h6 class="pb-5"
             style="text-align:center; letter-spacing:2px">
             Tervezze meg nyaralását időben, és használja ki a kedvezményes árainkat!
-            <br /> Ha foglalását legkésőbb 2019. április 30-ig érvényesíti, több mint 10% kedvezményt
-            adunk az árainkból! <br /> Így akár már 7800Ft/fő/éj áron tud félpanziós ellátással a Balaton
-            partján nyaralni!
+            <br /> Ha foglalását legkésőbb
+            <strong style="color: red">2019. április 30-ig</strong> érvényesíti,
+            <strong style="color: red">több mint 10% kedvezményt adunk az árainkból!</strong> <br /> Így akár már 7800Ft/fő/éj áron
+            tud félpanziós ellátással a Balaton partján nyaralni!
         </h6>
 
         <div class="table-responsive py-3">
@@ -80,7 +81,7 @@
             <p>1 éjszakás foglalás: 20% felár</p>
             <p>2 éjszakás foglalás: 5% felár</p>
             <p>
-                Az idegenforgalmi adó (IFA) ezen felül fizetendő készpénzben a helyszínen. Összege 2019-ben 18 év felett:
+                Az idegenforgalmi adó (IFA) ezen felül fizetendő készpénzben a helyszínen. Összege 2018-ban 18 év felett:
                 400Ft/fő/éj volt.
             </p>
         </div>
@@ -111,5 +112,37 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+@media only screen and (max-width: 1024px) {
+  .table {
+    margin: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .table-responsive {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .table-responsive p {
+    margin: 0px;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  td {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  th {
+    font-size: 11px;
+  }
+}
 </style>

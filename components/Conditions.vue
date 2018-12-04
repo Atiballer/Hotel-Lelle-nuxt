@@ -2,8 +2,8 @@
     <div class="container-fluid">
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
-            <strong>Gyerekkedvezmény:</strong> a szülővel egy szobában történő elhelyezés esetén 0-3 éves életkor
-            között 100%, 4-9 éves korig 50%
+            <strong>Gyerekkedvezmény:</strong> Két felnőttel egy szobában történő elhelyezés esetén 0-3 éves
+            életkor között 100%, 4-9 éves korig 50%
         </p>
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
@@ -22,7 +22,7 @@
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
             <strong>Foglalási feltételek:</strong> Szobafoglalást csak írásban fogadunk el. E-mail címünk:
-            <a href="mailto:"> foglalas@hotel-lelle.hu</a> <br />
+            <a href="mailto:foglalas@hotel-lelle.hu"> foglalas@hotel-lelle.hu</a> <br />
             <strong> Előleg:</strong> a teljes szállásdíj 50%-a. Fizetendő a foglalástól számított 8 napon belül.
         </p>
         <p class="pt-4"

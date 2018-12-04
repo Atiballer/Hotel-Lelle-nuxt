@@ -52,11 +52,12 @@
                                 <nuxt-link to="/szobak">Szobák</nuxt-link>
                             </li>
                             <li>
-                                <nuxt-link to="/ajanlataink">Ajánlataink</nuxt-link>
-                            </li>
-                            <li>
                                 <nuxt-link to="/arak">Árak</nuxt-link>
                             </li>
+                            <li>
+                                <nuxt-link to="/ajanlataink">Ajánlataink</nuxt-link>
+                            </li>
+
                             <li>
                                 <nuxt-link to="/galeria">Galéria</nuxt-link>
                             </li>

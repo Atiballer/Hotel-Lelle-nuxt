@@ -29,13 +29,14 @@
         <li class="nav-item active px-3">
           <nuxt-link :class="{'solid2': solid2}"
                      class="nav-link"
-                     to="/ajanlataink">Ajánlataink</nuxt-link>
+                     to="/arak">Árak</nuxt-link>
         </li>
         <li class="nav-item active px-3">
           <nuxt-link :class="{'solid2': solid2}"
                      class="nav-link"
-                     to="/arak">Árak</nuxt-link>
+                     to="/ajanlataink">Ajánlataink</nuxt-link>
         </li>
+
         <!--
             <li class="nav-item active px-3">
               <a class="nav-link" href="programok.html">Programok</a>

@@ -73,10 +73,10 @@
                     <div class="col-sm-12 col-md-6">
                         <h2 class="text-center">Családi szoba</h2>
                         <p>
-                            Családi szobáink 2+2 fő elhelyezésére alkalmas szoba, erkéllyel, saját fürdőszobával. A szobákban Tv
-                            és hűtő található. Egy légtérben található a nappali és a hálószoba, melyek
-                            függönnyel vannak elválasztva. Gyermekkel érkező családoknak ideális. Hatalmas,
-                            Balatonra néző erkéllyel rendelkezik.
+                            Családi szobáink 2+2 fő elhelyezésére alkalmasak. Erkéllyel, saját fürdőszobával. A szobákban Tv és hűtő
+                            található. Egy légtérben található a nappali és a hálószoba, melyek függönnyel
+                            vannak elválasztva. Gyermekkel érkező családoknak ideális. Hatalmas, Balatonra
+                            néző erkéllyel rendelkezik.
                         </p>
                         <font-awesome-icon icon="bed"
                                            size="2x"
