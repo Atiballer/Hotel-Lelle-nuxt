@@ -23,7 +23,7 @@
            style="text-align:center; letter-spacing:1.5px">
             <strong>Foglalási feltételek:</strong> Szobafoglalást csak írásban fogadunk el. E-mail címünk:
             <a href="mailto:foglalas@hotel-lelle.hu"> foglalas@hotel-lelle.hu</a> <br />
-            <strong> Előleg:</strong> a teljes szállásdíj 50%-a. Fizetendő a foglalástól számított 8 napon belül.
+            <strong> Előleg:</strong> a teljes szállásdíj 50%-a. Fizetendő a foglalástól számított 3 napon belül.
         </p>
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
