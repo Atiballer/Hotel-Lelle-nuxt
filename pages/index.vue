@@ -139,7 +139,8 @@
             <div>
               <h4>Parkolás</h4>
             </div>
-            <p>A szálloda vendégeinek saját parkoló biztosított.</p>
+            <p>A szálloda vendégeinek saját parkoló biztosított. A parkolás díja szállóvendégek részére
+              600Ft/nap, egyéb esetben pedig 2500Ft/nap</p>
           </div>
           <div class="col-xs-12 col-md-6">
             <div>

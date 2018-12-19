@@ -39,6 +39,10 @@
            style="text-align:center; letter-spacing:1.5px">
             <strong>Kisállat hozható. 2200Ft/éj</strong>
         </p>
+        <p class="pt-4"
+           style="text-align:center; letter-spacing:1.5px">
+            <strong>Speciális étkezés felára: 2500Ft/fő/éj</strong>
+        </p>
     </div>
 </template>
 
