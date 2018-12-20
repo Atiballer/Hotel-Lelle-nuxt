@@ -67,6 +67,9 @@
                             <li>
                                 <nuxt-link to="/adatvedelem">Adatvédelem</nuxt-link>
                             </li>
+                            <li>
+                                <a href="https://www.hotel-lelle.hu/ASZF.pdf">ÁSZF</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
