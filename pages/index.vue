@@ -99,9 +99,28 @@
         <div class="row pt-5">
           <div class="col-xs-12 col-sm-6">
             <img class="img-fluid img-thumbnail cover"
-                 src="../assets/kutya.jpg"
+                 src="../assets/felpanzio.jpg"
                  alt="A szálloda" />
           </div>
+          <div class="col-sm-12 col-md-6">
+            <div class="heading-block mb-5 pt-2">
+              <h2>Saját étterem</h2>
+              <span>Házias ízekkel</span>
+            </div>
+            <p>
+              Szállodánknak saját étterme van, így vendégeinknek a nyaralásuk alatt sem kell nélkülözni a finom, házias
+              ételeket.
+              <strong>Áraink félpanziós menüválasztásos ellátást tartalmaznak.</strong>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mb-2 service">
+      <div class="container pt-5">
+        <div class="row pt-5">
+
           <div class="col-sm-12 col-md-6">
             <div class="heading-block mb-5 pt-2">
               <h2>Kisállatbarát szállás</h2>
@@ -112,6 +131,13 @@
               kisállat is hozható.
             </p>
           </div>
+
+          <div class="col-xs-12 col-sm-6">
+            <img class="img-fluid img-thumbnail cover"
+                 src="../assets/kutya.jpg"
+                 alt="A szálloda" />
+          </div>
+
         </div>
       </div>
     </section>

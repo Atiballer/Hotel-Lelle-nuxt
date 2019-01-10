@@ -1,20 +1,20 @@
 <template>
-    <div class="container">
-        <ul>
-            <li v-for="(image, index) in images"
-                style="display: inline-block; padding-right: 1.5rem;"
-                :key="index">
-                <img class="pb-4"
-                     v-lazy="image.src"
-                     style="height: 15em"
-                     @click="openGallery(index)">
-            </li>
-        </ul>
-        <LightBox :images="images"
-                  ref="lightbox"
-                  :show-caption="true"
-                  :show-light-box="false"></LightBox>
-    </div>
+  <div class="container">
+    <ul>
+      <li v-for="(image, index) in images"
+          style="display: inline-block; padding-right: 1.5rem;"
+          :key="index">
+        <img class="pb-4"
+             v-lazy="image.src"
+             style="height: 15em"
+             @click="openGallery(index)">
+      </li>
+    </ul>
+    <LightBox :images="images"
+              ref="lightbox"
+              :show-caption="true"
+              :show-light-box="false"></LightBox>
+  </div>
 </template>
 
 <script>
@@ -49,6 +49,24 @@ export default {
           caption: "A bejárat este"
         },
         {
+          thumb: "ellatas.jpg",
+          src: "ellatas.jpg",
+          alt: "Ellátás",
+          caption: "Félpanziós ellátás"
+        },
+        {
+          thumb: "ellatas2.jpg",
+          src: "ellatas2.jpg",
+          alt: "Házias ízek",
+          caption: "Házias ízek"
+        },
+        {
+          thumb: "desszert.jpg",
+          src: "desszert.jpg",
+          alt: "desszert",
+          caption: "Desszert is van"
+        },
+        {
           thumb: "strand.jpg",
           src: "strand.jpg",
           alt: "A strand",
@@ -71,6 +89,12 @@ export default {
           src: "kave3.jpg",
           alt: "Kávé",
           caption: "Egy kávé mindig jól jön"
+        },
+        {
+          thumb: "jeges_kave.jpg",
+          src: "jeges_kave.jpg",
+          alt: "Jegeskávé",
+          caption: "Egy kávé mindig jól jön hidegen is"
         },
         {
           thumb: "latkep.jpg",
@@ -127,6 +151,18 @@ export default {
           caption: "Esti kikapcsolódás"
         },
         {
+          thumb: "kikapcsolodas.jpg",
+          src: "kikapcsolodas.jpg",
+          alt: "Kikapcsolódás napközben",
+          caption: "Kikapcsolódás napközben"
+        },
+        {
+          thumb: "jatek.jpg",
+          src: "jatek.jpg",
+          alt: "Játék",
+          caption: "Egy kis játék lazításként"
+        },
+        {
           thumb: "este3.jpg",
           src: "este3.jpg",
           alt: "Este az udvarban",
@@ -143,6 +179,12 @@ export default {
           src: "kutya4.jpg",
           alt: "kisállat",
           caption: "Ők is jól érzik magukat"
+        },
+        {
+          thumb: "suni.jpg",
+          src: "suni.jpg",
+          alt: "süni",
+          caption: "Valamit talált"
         }
       ]
     };
