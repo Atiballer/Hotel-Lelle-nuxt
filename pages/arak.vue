@@ -64,6 +64,8 @@
                 </tr>
               </tbody>
             </table>
+            <p style="font-size:11px">A feltüntetett árak az ÁFA-t tartalmazzák.</p>
+            <p style="font-size:11px">A mindenkori bruttó ár 60%-a a szállás díja, 40%-a pedig a vendéglátás ellenértéke.</p>
             <p style="font-weight:bold">
               Az árak félpanziós menüválasztásos ellátást tartalmaznak.
             </p>
