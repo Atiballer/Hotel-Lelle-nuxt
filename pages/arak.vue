@@ -26,11 +26,11 @@
 
                   <th scope="col"
                       colspan="2"
-                      style="text-align:center">3 éj</th>
+                      style="text-align:center">3-4 éj</th>
 
                   <th scope="col"
                       colspan="2"
-                      style="text-align:center">5 éj</th>
+                      style="text-align:center">5 éjszakától</th>
                 </tr>
                 <tr>
                   <th scope="col"></th>
@@ -65,15 +65,17 @@
               </tbody>
             </table>
             <p style="font-size:11px">A feltüntetett árak az ÁFA-t tartalmazzák.</p>
-            <p style="font-size:11px">A mindenkori bruttó ár 60%-a a szállás díja, 40%-a pedig a vendéglátás ellenértéke.</p>
+            <p style="font-size:11px">A mindenkori bruttó ár 60%-a a szállás díja, 40%-a pedig a
+              vendéglátás ellenértéke.</p>
             <p style="font-weight:bold">
               Az árak félpanziós menüválasztásos ellátást tartalmaznak.
             </p>
             <p>1 éjszakás foglalás: 20% felár</p>
             <p>2 éjszakás foglalás: 5% felár</p>
             <p>
-              Az idegenforgalmi adó (IFA) ezen felül fizetendő készpénzben a helyszínen. Összege 2018-ban 18 év felett:
-              400Ft/fő/éj volt.
+              Az idegenforgalmi adó (IFA) ezen felül fizetendő készpénzben a helyszínen. Összege
+              2019-ben 18 év felett:
+              400Ft/fő/éj.
             </p>
 
           </div>
@@ -83,7 +85,8 @@
             <img class="img-fluid img-thumbnail py-3"
                  src="../assets/akcio.png"
                  alt="Jelenlegi akciónk" />
-            <p style="text-align: center; text-decoration: none; color: #555">Jelenleg elérhető akciónkért kattintson ide</p>
+            <p style="text-align: center; text-decoration: none; color: #555">Jelenleg elérhető
+              akciónkért kattintson ide</p>
           </nuxt-link>
         </div>
       </div>
