@@ -1,25 +1,18 @@
 <template>
   <div>
-    <GmapMap :center="{lat:46.7886167, lng:17.681446}"
-             :zoom="16"
-             map-type-id="terrain"
-             style="width: 100%; max-width: 600px; height: 400px; margin: auto">
-      <GmapMarker :key="index"
-                  v-for="(m, index) in markers"
-                  :position="{ lat:46.786883, lng:17.685008 }"
-                  :clickable="true"
-                  :draggable="true"
-                  @click="center=m.position" />
-    </GmapMap>
+    <p style="text-align:center">
+      <iframe width="100%"
+              height="400"
+              frameborder="0"
+              style="border:0"
+              src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA2Kf5VZW0JxGE7r0UrIKlU3DucS63SpgI
+    &q=Hotel+Lelle"
+              allowfullscreen>
+      </iframe>
+
+    </p>
   </div>
 </template>
 <script>
-export default {
-  data() {
-    return {
-      center: { lat: 46.7886167, lng: 17.681446 },
-      markers: { lat: 46.7886167, lng: 17.681446 }
-    };
-  }
-};
+export default {};
 </script>

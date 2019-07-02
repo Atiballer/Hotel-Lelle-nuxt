@@ -99,7 +99,6 @@ module.exports = {
     { src: "~/plugins/fontawesome.js" },
     { src: "~/plugins/vue-lazyload.js", ssr: false },
     { src: "~/plugins/vue-image-lightbox.js", ssr: false },
-    { src: "~/plugins/vue2-google-maps.js" },
     { src: "~plugins/ga.js", ssr: false }
   ],
 
@@ -122,7 +121,6 @@ module.exports = {
    ** Build configuration
    */
   build: {
-    transpile: [/^vue2-google-maps($|\/)/],
     plugins: [
       new webpack.ProvidePlugin({
         $: "jquery",
