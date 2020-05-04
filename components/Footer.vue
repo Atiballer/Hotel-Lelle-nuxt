@@ -12,13 +12,13 @@
               </p>
               <!-- Rights -->
               <p class="rights">
-                <span>© </span>
-                <span class="copyright-year">2019</span>
+                <span>© {{ new Date().getFullYear() }} </span>
+                <!-- <span class="copyright-year">2019</span> -->
                 <span> </span>
                 <span>Hotel Lelle</span>
-                <span>. </span>
-                <span>Powered by
-                  <a href="https://www.satiweb.hu">Atiballer Webdesign</a>
+                <span>- </span>
+                <span>Készítette a
+                  <a href="https://www.satiweb.hu">Satiweb</a>
                 </span>
               </p>
             </div>
@@ -69,7 +69,7 @@
                 <nuxt-link to="/adatvedelem">Adatvédelem</nuxt-link>
               </li>
               <li>
-                <a href="https://www.hotel-lelle.hu/ASZF.pdf">ÁSZF</a>
+                <a href="https://www.hotel-lelle.hu/ASZF.pdf" target="_blank">ÁSZF</a>
               </li>
             </ul>
           </div>

@@ -97,6 +97,7 @@ module.exports = {
     { src: "~plugins/popper.js" },
     { src: "~plugins/bootstrap.js" },
     { src: "~/plugins/fontawesome.js" },
+    { src: "~/plugins/vue-js-modal.js", ssr: false },
     { src: "~/plugins/vue-lazyload.js", ssr: false },
     { src: "~/plugins/vue-image-lightbox.js", ssr: false },
     { src: "~plugins/ga.js", ssr: false }

@@ -8,16 +8,18 @@
 
     <h4 class="pb-3"
         style="text-align:center; text-transform:uppercase">
-      Előfoglalási akció!
+      Visszatérő Vendég akciónk!
     </h4>
     <h6 class="pb-5"
         style="text-align:center; letter-spacing:2px">
       Tervezze meg nyaralását időben, és használja ki a kedvezményes árainkat!
-      <br /> Ha foglalását legkésőbb
-      <strong style="color: red">2019. április 30-ig</strong> érvényesíti,
-      <strong style="color: red">több mint 10% kedvezményt adunk az árainkból!</strong> <br /> Így
+      <br /> Amennyiben Ön 2018-ban vagy 2019-ben
+      <strong style="color: red">nyaralt a szállodánkban,</strong> a mindenkori árból
+      <strong style="color: red">több mint 10% kedvezményt tud érvényesíteni!</strong> <br /> Így
       akár már 7800Ft/fő/éj áron
-      tud félpanziós ellátással a Balaton partján nyaralni!
+      tud félpanziós ellátással a Balaton partján nyaralni! <br>
+      Küldje el ajánlatkérését a <a href="mailto:foglalas@hotel-lelle.hu">foglalas@hotel-lelle.hu</a> email címre, és jelezze hogy igénybe kívánja venni a visszatérő vendég akciót.  
+
     </h6>
 
     <div class="table-responsive py-3">
@@ -85,7 +87,7 @@
       <p>1 éjszakás foglalás: 20% felár</p>
       <p>2 éjszakás foglalás: 5% felár</p>
       <p>
-        Az idegenforgalmi adó (IFA) ezen felül fizetendő készpénzben a helyszínen. Összege 2019-ben
+        Az idegenforgalmi adó (IFA) ezen felül fizetendő készpénzben a helyszínen. Összege 2020-ban
         18 év felett:
         400Ft/fő/éj.
       </p>

@@ -74,7 +74,7 @@
             <p>2 éjszakás foglalás: 5% felár</p>
             <p>
               Az idegenforgalmi adó (IFA) ezen felül fizetendő készpénzben a helyszínen. Összege
-              2019-ben 18 év felett:
+              2020-ban 18 év felett:
               400Ft/fő/éj.
             </p>
 
@@ -105,7 +105,7 @@ export default {
   data() {
     return {
       title: "Árak",
-      description: "2019. június 14. – augusztus 23. között érvényes árak"
+      description: "2020. június 14. – augusztus 23. között érvényes árak"
     };
   },
   head() {
