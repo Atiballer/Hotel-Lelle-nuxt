@@ -7,8 +7,8 @@
         </p>
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
-            <strong> Fizetési módok:</strong> Banki átutalással vagy közvetlen befizetéssel az OTP Banknál vezetett
-            11745004-21101144 számú számlára. Számlatulajdonos: Optagent kft. Közleményben kérjük feltüntetni
+            <strong> Fizetési módok:</strong> Banki átutalással vagy közvetlen befizetéssel a Budapest Banknál vezetett
+            10104569-45005800-01005006 számú számlára. Számlatulajdonos: Optagent kft. Közleményben kérjük feltüntetni
             a foglalási számot, és nevet.
             <strong>Szép kártyát elfogadunk.</strong>
         </p>
@@ -23,16 +23,16 @@
            style="text-align:center; letter-spacing:1.5px">
             <strong>Foglalási feltételek:</strong> Szobafoglalást csak írásban fogadunk el. E-mail címünk:
             <a href="mailto:foglalas@hotel-lelle.hu"> foglalas@hotel-lelle.hu</a> <br />
-            <strong> Előleg:</strong> a teljes szállásdíj 50%-a. Fizetendő a foglalástól számított 3 napon belül.
+            <strong> Előleg:</strong> a teljes szállásdíj 35%-a. Fizetendő a foglalástól számított 3 napon belül.
         </p>
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
             <strong>
                 Lemondási feltételek: A szobafoglalást lemondani vagy módosítani csak írásban lehet.</strong>
-            A foglalás kötbérmentesen lemondható az igénybevétel napját megelőző 45. napig. Ebben az esetben csak
-            a bankköltség kerül levonásra. Amennyiben a lemondás az érkezés napját megelőző 15.- 44.
-            napja között történik, akkor a teljes szállásdíj összegének 50%-a fizetendő. Ha a szobafoglalás
-            az érkezés előtt 14 napon belül kerül lemondásra, akkor a szállásdíj 100%-a, azaz a teljes
+            A foglalás kötbérmentesen lemondható az igénybevétel napját megelőző 30. napig. Ebben az esetben csak
+            a bankköltség kerül levonásra. Amennyiben a lemondás az érkezés napját megelőző 5.- 30.
+            napja között történik, akkor a teljes szállásdíj összegének 65%-a fizetendő. Ha a szobafoglalás
+            az érkezés előtt 1-5 napon belül kerül lemondásra, akkor a szállásdíj 100%-a, azaz a teljes
             összeg fizetendő.
         </p>
         <p class="pt-4"

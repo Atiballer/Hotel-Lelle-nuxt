@@ -105,7 +105,7 @@ export default {
   data() {
     return {
       title: "Árak",
-      description: "2020. június 14. – augusztus 23. között érvényes árak"
+      description: "2020. július 1. – augusztus 23. között érvényes árak"
     };
   },
   head() {

@@ -43,10 +43,34 @@ export default {
           caption: "Bejárat a szállodába"
         },
         {
+          thumb: "bejarat2.jpg",
+          src: "bejarat2.jpg",
+          alt: "A szálloda bejárata vendégekkel",
+          caption: "Gyertek, gyertek :)"
+        },
+        {
+          thumb: "bejarat3.jpg",
+          src: "bejarat3.jpg",
+          alt: "A szálloda bejárata vendégekkel és buszokkal",
+          caption: "Van egy kis forgalom :)"
+        },
+        {
           thumb: "bejarat_este2.jpg",
           src: "bejarat_este2.jpg",
           alt: "A bejárat este",
           caption: "A bejárat este"
+        },
+        {
+          thumb: "keszul.jpg",
+          src: "keszul.jpg",
+          alt: "Valami készül hotelünkben",
+          caption: "Valami készül :)"
+        },
+        {
+          thumb: "bicikli.jpg",
+          src: "bicikli.jpg",
+          alt: "Bicikli túra indulás a szállodánktól",
+          caption: "Egy kis bicikli túra belefér :)"
         },
         {
           thumb: "ellatas.jpg",
@@ -67,6 +91,18 @@ export default {
           caption: "Desszert is van"
         },
         {
+          thumb: "burger.jpg",
+          src: "burger.jpg",
+          alt: "Hamburgerező a Hotel Lellében",
+          caption: "Sláger a hamburger 🍺🍔🌭 Wild West Burger House"
+        },
+        {
+          thumb: "fagyi.jpg",
+          src: "fagyi.jpg",
+          alt: "Fagyizó a Hotel Lellében",
+          caption: "Fagyink is van :)"
+        },
+        {
           thumb: "strand.jpg",
           src: "strand.jpg",
           alt: "A strand",
@@ -85,6 +121,18 @@ export default {
           caption: "Szintén a szabadban"
         },
         {
+          thumb: "vizifoci.jpg",
+          src: "vizifoci.jpg",
+          alt: "Vízifoci a Hotel Lellében",
+          caption: "Vízifoci :)"
+        },
+        {
+          thumb: "ugralas.jpg",
+          src: "ugralas.jpg",
+          alt: "Ugrálni jó :)",
+          caption: "Ugrálni kicsit másképp :)"
+        },
+        {
           thumb: "kave3.jpg",
           src: "kave3.jpg",
           alt: "Kávé",
@@ -97,10 +145,22 @@ export default {
           caption: "Egy kávé mindig jól jön hidegen is"
         },
         {
+          thumb: "limonade.jpg",
+          src: "limonade.jpg",
+          alt: "Limonádé",
+          caption: "Finom, hűs limonádé"
+        },
+        {
           thumb: "latkep.jpg",
           src: "latkep.jpg",
           alt: "A kilátás",
           caption: "A látvány a partról"
+        },
+        {
+          thumb: "csoport5.jpg",
+          src: "csoport5.jpg",
+          alt: "Újabb csoport szállodánkban",
+          caption: "Újabb csoport szállodánkban :)"
         },
         {
           thumb: "csoport.jpg",
@@ -137,6 +197,18 @@ export default {
           src: "buli.jpg",
           alt: "Esti buli",
           caption: "Esti buli"
+        },
+        {
+          thumb: "buli2.jpg",
+          src: "buli2.jpg",
+          alt: "Újabb esti buli",
+          caption: "Újabb esti buli"
+        },
+        {
+          thumb: "buli3.jpg",
+          src: "buli3.jpg",
+          alt: "Esti buli más szemszögből",
+          caption: "Esti buli a Hotel Lellében"
         },
         {
           thumb: "este.jpg",
