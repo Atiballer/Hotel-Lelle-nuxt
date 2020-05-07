@@ -7,6 +7,10 @@
         </p>
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
+            <strong>Parkolás:</strong> Szállóvendégek részére ingyenes. Egyéb esetben 2500Ft/nap
+        </p>
+        <p class="pt-4"
+           style="text-align:center; letter-spacing:1.5px">
             <strong> Fizetési módok:</strong> Banki átutalással vagy közvetlen befizetéssel a Budapest Banknál vezetett
             10104569-45005800-01005006 számú számlára. Számlatulajdonos: Optagent kft. Közleményben kérjük feltüntetni
             a foglalási számot, és nevet.
@@ -23,7 +27,7 @@
            style="text-align:center; letter-spacing:1.5px">
             <strong>Foglalási feltételek:</strong> Szobafoglalást csak írásban fogadunk el. E-mail címünk:
             <a href="mailto:foglalas@hotel-lelle.hu"> foglalas@hotel-lelle.hu</a> <br />
-            <strong> Előleg:</strong> a teljes szállásdíj 35%-a. Fizetendő a foglalástól számított 3 napon belül.
+            <strong> Előleg:</strong> a teljes szállásdíj 35%-a. Fizetendő a foglalástól számított 2 napon belül.
         </p>
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
@@ -33,7 +37,7 @@
             a bankköltség kerül levonásra. Amennyiben a lemondás az érkezés napját megelőző 5.- 30.
             napja között történik, akkor a teljes szállásdíj összegének 65%-a fizetendő. Ha a szobafoglalás
             az érkezés előtt 1-5 napon belül kerül lemondásra, akkor a szállásdíj 100%-a, azaz a teljes
-            összeg fizetendő.
+            összeg fizetendő. Ha vírushelyzet miatt a szálloda nem tud vendéget fogadni, függetlenül az időponttól a teljes szállásdíjat visszautaljuk. A befizetett összegből a visszautalás előtt minden esetben levonásra kerül 5000Ft adminisztrációs költség.
         </p>
         <p class="pt-4"
            style="text-align:center; letter-spacing:1.5px">
