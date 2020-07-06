@@ -73,6 +73,36 @@ export default {
           caption: "Egy kis bicikli túra belefér :)"
         },
         {
+          thumb: "IMG_6032.jpg",
+          src: "IMG_6032.jpg",
+          alt: "Hotel Lelle standard szobája",
+          caption: "Várjuk kedves vendégeinket :)"
+        },
+        {
+          thumb: "IMG_6034.jpg",
+          src: "IMG_6034.jpg",
+          alt: "Hotel Lelle standard+ típusú szobája",
+          caption: "Egyik szobánk belülről :)"
+        },
+        {
+          thumb: "IMG_6035.jpg",
+          src: "IMG_6035.jpg",
+          alt: "Szállodánk egyik szobája várja az új vendégeket",
+          caption: "Szállodánk egyik szobája várja az új vendégeit :)"
+        },
+        {
+          thumb: "IMG_6036.jpg",
+          src: "IMG_6036.jpg",
+          alt: "Hotel Lelle szoba fürdője",
+          caption: "Szobánk fürdőszobája"
+        },
+        {
+          thumb: "IMG_6238.jpg",
+          src: "IMG_6238.jpg",
+          alt: "Szobai dekoráció",
+          caption: "Szobai dekoráció :)"
+        },
+        {
           thumb: "ellatas.jpg",
           src: "ellatas.jpg",
           alt: "Ellátás",

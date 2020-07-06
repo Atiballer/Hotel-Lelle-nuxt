@@ -27,8 +27,8 @@
                     </div>
                     <div class="col-xs-12 col-sm-6 roomspic">
                         <img class="img-fluid img-thumbnail cover"
-                             src="../assets/standard_szoba.jpg"
-                             alt="A szálloda" />
+                             src="../assets/IMG_6032.jpg"
+                             alt="Hotel Lelle standard szoba" />
                     </div>
                 </div>
             </div>
@@ -60,8 +60,8 @@
                     </div>
                     <div class="col-xs-12 col-sm-6 roomspic">
                         <img class="img-fluid img-thumbnail cover"
-                             src="../assets/standard+_szoba.jpg"
-                             alt="A szálloda" />
+                             src="../assets/IMG_6034.jpg"
+                             alt="A szálloda standard+ típusú szobája" />
                     </div>
                 </div>
             </div>
@@ -93,8 +93,8 @@
                     </div>
                     <div class="col-xs-12 col-sm-6 roomspic">
                         <img class="img-fluid img-thumbnail cover"
-                             src="../assets/csaladi_szoba.jpg"
-                             alt="A szálloda" />
+                             src="../assets/IMG_6238.jpg"
+                             alt="Hotel Lelle családi szoba" />
                     </div>
                 </div>
             </div>
