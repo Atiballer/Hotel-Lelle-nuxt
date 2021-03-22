@@ -91,11 +91,11 @@
                                            size="2x"
                                            class="pt-2" />
                     </div>
-                    <!-- <div class="col-xs-12 col-sm-6 roomspic">
+                    <div class="col-xs-12 col-sm-6 roomspic">
                         <img class="img-fluid img-thumbnail cover"
                              src="../assets/IMG_6238.jpg"
                              alt="Hotel Lelle családi szoba" />
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </section>
