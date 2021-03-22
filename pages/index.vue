@@ -241,7 +241,7 @@ export default {
     openModal() {
       this.$modal.show("dialog", {
         title: "Kedves Érdeklődőnk!",
-        text: "<strong>Örömmel értesítjük Önt, hogy 2020-ban - ahogy a járványhelyzet engedi - újra kinyitja kapuit a Hotel Lelle!</strong> <br> <br> Az áraink nem változtak, így ebben az évben is a 2019-es árakon nyaralhat nálunk.<br><br> A szezon végén - szeptemberben - pedig megkezdődik a szálloda teljeskörű felújítása. Ha tehát szeretné kipihenni magát, most még kedvező áron megteheti. A Hotel Lelle várja Önt! <br><br> Kérjen e-mailben ajánlatot.  Email címünk: foglalas@hotel-lelle.hu",
+        text: "<strong>A Hotel Lelle jelenleg felújítás alatt van.</strong> <br> <br> Ez jó hír, hiszen jövőre egy teljesen új, modern környezetben tudjuk Önöket fogadni.<br><br>2021-re azonban sajnos nálunk nem tudnak foglalni. Bízunk a megértésükben, és kívánunk Önöknek jó egészséget, kellemes nyarat! <br><br>Találkozzunk 2022-ben!",
         buttons: [
           {
             title: "Bezárás"
