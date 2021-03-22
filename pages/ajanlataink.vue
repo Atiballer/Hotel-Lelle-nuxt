@@ -103,7 +103,7 @@ export default {
   data() {
     return {
       title: "Ajánlataink",
-      description: "Aktuálisan elérhető ajánlatunk"
+      description: "Aktuálisan elérhető ajánlataink"
     };
   },
   head() {
